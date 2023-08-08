@@ -13,13 +13,15 @@ header{
 }
 /* Header Container End */
 nav{
-    margin:50px 150px;
+    padding:50px 150px;
     display: flex;
     justify-content: space-between;
 }
 .nav-link{
     text-decoration: none;
     color: black;
+    font-size: 30px;
+    font-weight: 1000;
 }
 nav ul{
     display: flex;
